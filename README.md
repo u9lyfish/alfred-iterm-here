@@ -8,8 +8,7 @@ A simple [Alfred 2](http://www.alfredapp.com/) workflow that opens a iTerm2 term
 
 ## How to install
 
-1. Clone this repo into `Alfred.alfredpreferences/workflows/iTerm-here`, or
-[download the `.alfredworkflow` file from the Releases page](https://github.com/u9lyfish/alfred-iterm-here/releases).
+1. [Download the `.alfredworkflow` file from the Releases page](https://github.com/u9lyfish/alfred-iterm-here/releases).
 2. Modify hotkey combination to your choice.
 
 <p align="center">
